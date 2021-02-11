@@ -1,0 +1,5 @@
+﻿  proj_1c.c
+C:\Users\newmo\source\repos\test\test\proj_1c.c(7,7): warning C4013: 関数 'haiku' は定義されていません。int 型の値を返す外部関数と見なします。
+C:\Users\newmo\source\repos\test\test\proj_1c.c(8,8): warning C4013: 関数 'haiku2' は定義されていません。int 型の値を返す外部関数と見なします。
+C:\Users\newmo\source\repos\test\test\proj_1c.c(9,8): warning C4013: 関数 'haiku3' は定義されていません。int 型の値を返す外部関数と見なします。
+  test.vcxproj -> C:\Users\newmo\source\repos\test\Debug\test.exe
