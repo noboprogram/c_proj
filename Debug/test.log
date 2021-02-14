@@ -1,7 +1,2 @@
-﻿  proj_1c.c
-C:\Users\newmo\source\repos\test\test\proj_1c.c(16,8): warning C4013: 関数 'hensu3' は定義されていません。int 型の値を返す外部関数と見なします。
-  proj_4.c
-C:\Users\newmo\source\repos\test\test\proj_4.c(10,10): warning C4098: 'main4': 戻り値の型が 'void' で宣言された関数が、値を返しました。
-C:\Users\newmo\source\repos\test\test\proj_4.c(23,10): warning C4098: 'shusei': 戻り値の型が 'void' で宣言された関数が、値を返しました。
-  コードを生成中...
+﻿  proj_7.c
   test.vcxproj -> C:\Users\newmo\source\repos\test\Debug\test.exe
